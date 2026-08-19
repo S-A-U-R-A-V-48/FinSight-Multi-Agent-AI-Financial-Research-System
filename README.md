@@ -195,12 +195,11 @@ Sentiment Analysis
 
 ## 👨‍💻 Author
 
-**Rahul Kumar Yadav**
+**Saurav**
 - Integrated M.Sc. Mathematics & Computing — BIT Mesra
 - BS Data Science — IIT Madras
-- Associate Vice President, Data Science Club — BIT Mesra
 
-[![GitHub](https://img.shields.io/badge/GitHub-poiuyfddjhgfd-black?style=flat-square&logo=github)](https://github.com/poiuyfddjhgfd)
+
 
 ---
 
